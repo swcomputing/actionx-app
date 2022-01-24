@@ -33,9 +33,10 @@ no specific section(s) are mentioned.
 MICROSOFT SOFTWARE LICENSE TERMS
 MICROSOFT VISUAL STUDIO COMMUNITY 2019 ( Section 3 : DISTRIBUTABLE CODE )
 ============================================
-Distributable code is included for the purpose of scaffolding and stubs that are built on
-such as project templates and samples as per section 3 of the following license terms 
-https://visualstudio.microsoft.com/license-terms/mlt031819/   ( 2022/01/24 copy below )
+Distributable code is included in the software for the purpose of scaffolding and stubs 
+that are built on such as project templates and samples as per section 3 of the following 
+license terms: https://visualstudio.microsoft.com/license-terms/mlt031819/   
+( 2022/01/24 copy below )
 
 3. DISTRIBUTABLE CODE. The software contains code that you may distribute in applications you develop as described in this Section. For purposes of this Section 3, the term “distribution” also means deployment of your applications for third parties to access over the Internet.
 
